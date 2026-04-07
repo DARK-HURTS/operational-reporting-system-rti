@@ -22,7 +22,7 @@ Additionally, changes in leadership reduced direct access to escalate issues, in
 📄 Detailed breakdown:  
 → [`01_Project_Context/problem_statement.md`](./01_Project_Context/problem_statement.md)
 
-Supporting analysis:  
+## Supporting analysis:  
 → [`02_Analysis/current_state_analysis.md`](./02_Analysis/current_state_analysis.md)  
 → [`02_Analysis/gaps_identified.md`](./02_Analysis/gaps_identified.md)
 ---
