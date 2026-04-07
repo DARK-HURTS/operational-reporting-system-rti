@@ -19,6 +19,9 @@ The existing reporting format lacked structure, consistency, and decision-making
 
 Additionally, changes in leadership reduced direct access to escalate issues, increasing the need for a formalized reporting system.
 
+📄 Detailed breakdown:  
+→ [`01_Project_Context/problem_statement.md`](./01_Project_Context/problem_statement.md)
+
 ---
 
 ## Approach
@@ -31,15 +34,14 @@ Additionally, changes in leadership reduced direct access to escalate issues, in
 Developed a structured reporting framework with:
 
 - **Overview / Highlights** for executive summaries  
-- **Categorized activity tracking** (RTI requests, training, reporting, etc.)  
+- **Categorized activity tracking**  
 - **Status indicators** (Completed / Ongoing)  
 - **Challenges section** for issue escalation  
-- **Next-week planning section** for forward visibility  
+- **Next-week planning section**  
 
 ### 3. Iterative Improvement
 - Refined template based on usage and feedback  
-- Introduced clearer categorization and workflow tracking  
-- Improved usability and readability  
+- Improved categorization and workflow tracking  
 
 ---
 
@@ -56,12 +58,22 @@ Developed a structured reporting framework with:
 
 ---
 
+## Artifacts
+
+Supporting documents demonstrating the transformation:
+
+- 📄 [Original Reporting Template](./04_Artifacts/original_reporting_template_sample.pdf)  
+- 📄 [Revised Reporting Template](./04_Artifacts/revised_reporting_template.docx)  
+- 📄 [Sample Completed Report](./04_Artifacts/sample_completed_report.pdf)  
+
+---
+
 ## Impact
 
 - Template adopted informally across multiple teams  
 - Improved clarity and consistency in reporting  
-- Enabled proactive planning through weekly forecasts  
-- Created formal visibility for operational challenges  
+- Enabled proactive planning  
+- Created visibility for operational challenges  
 - Improved coordination and accountability  
 
 ---
@@ -70,14 +82,14 @@ Developed a structured reporting framework with:
 
 - Process Design & Optimization  
 - Operational Analysis  
-- Stakeholder Influence  
+- Stakeholder Communication  
 - Information Structuring  
 - Internal Consulting  
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 - Microsoft Word  
-- Microsoft Excel (supporting workflows)  
-- AI-assisted design (prompt-driven structuring)
+- Microsoft Excel  
+- AI-assisted structuring  
